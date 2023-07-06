@@ -9,4 +9,4 @@
 
 |  #  |  Demo                                                                                                                    | Project                                                                       |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Live Demo - Click Here](https://expense-tracker-1k2h.onrender.com/)                                                                  | [MY-EXCEL]             |
+| 01  | [Live Demo - Click Here](https://expense-tracker-1k2h.onrender.com/)                                                                  | [ Expense Tracker ]             |
